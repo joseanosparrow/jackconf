@@ -33,7 +33,7 @@ acl CONNECT method CONNECT
 #
 # INSIRA SUA (S) PRÓPRIA REGRA (S) AQUI PARA PERMITIR O ACESSO DOS SEUS CLIENTES:
 #
-visible_hostname @Dougssh
+visible_hostname @joseanolinux
 
 # Exemplo de regra que permite o acesso de suas redes locais.
 # Adapte localnet na seção ACL para listar suas redes IP (internas)
